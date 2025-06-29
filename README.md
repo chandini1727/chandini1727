@@ -52,8 +52,7 @@ I'm a CS student who is into **Problem Solving** and **Web Development**.
 ## 🗓️ Contribution Summary:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandini1727&theme=radical" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandini1727&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandini1727&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandini1727&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=chandini1727&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 
 ---
 
@@ -70,6 +69,3 @@ I'm a CS student who is into **Problem Solving** and **Web Development**.
 
 ---
 
-## 📈 Contribution Streak:
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=chandini1727&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
