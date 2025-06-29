@@ -67,10 +67,8 @@ I'm a CS student who is into **Problem Solving** and **Web Development**.
 
 ## 🐍 Contribution Snake:
 
-<!-- Enable GitHub Actions to generate this automatically -->
-<p align="center">
-  ![snake gif](https://github.com/chandini1727/chandini1727/blob/output/github-contribution-grid-snake.svg)
-</p>
+![snake gif](https://raw.githubusercontent.com/chandini1727/chandini1727/output/github-contribution-grid-snake.svg)
+
 
 ---
 
