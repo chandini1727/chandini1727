@@ -41,8 +41,7 @@ I'm a CS student who is into **Problem Solving** and **Web Development**.
 
 ---
 ## ⚙️ GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=chandini1727&show_icons=true&theme=radical" width="48%" />
+<img src="https://img.shields.io/badge/Top%20Language-Java-orange?style=for-the-badge&logo=java&logoColor=white" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=chandini1727&show_icons=true&theme=radical" width="48%" />
 
