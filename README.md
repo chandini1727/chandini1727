@@ -69,7 +69,7 @@ I'm a CS student who is into **Problem Solving** and **Web Development**.
 
 <!-- Enable GitHub Actions to generate this automatically -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chandini1727/chandini1727/output/github-contribution-grid-snake.svg" alt="snake">
+  ![snake gif](https://github.com/chandini1727/chandini1727/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 ---
