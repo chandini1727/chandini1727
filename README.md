@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uddaayy&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandini1727&theme=radical"/>
 </p>
 
 ---
@@ -64,18 +64,18 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Uddaayy&theme=radical" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandini1727&theme=radical" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uddaayy&theme=radical" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandini1727&theme=radical" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Uddaayy&theme=radical" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandini1727&theme=radical" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Uddaayy&theme=radical" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandini1727&theme=radical" />
     </td>
   </tr>
 </table>
