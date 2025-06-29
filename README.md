@@ -40,11 +40,11 @@ I'm a CS student who is into **Problem Solving** and **Web Development**.
 </p>
 
 ---
+## ⚙️ GitHub Stats
 
-## 📊 GitHub Stats:
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=chandini1727&show_icons=true&theme=radical" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandini1727&layout=compact&theme=radical" width="48%" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandini1727&theme=radical"/>
 
