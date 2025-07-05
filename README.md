@@ -2,11 +2,7 @@
 
 ## 👋 About Me
 
-I'm **Chintala Chandini**, a Computer Science student with a passion for **Problem Solving**, **Full-Stack Web Development**, and building scalable backend systems.
-
-I specialize in developing full-stack applications using the **MERN stack**, integrating APIs, and deploying cloud-based solutions. I love working on impactful projects—from AI-powered chatbots to CRM systems—and continuously exploring new technologies like **LangChain**, **LLaMA 3**, and **AWS services** (EC2, S3, Glue).
-
-Alongside my technical interests, I actively contribute to campus initiatives, serving as an **Event Management Lead for NSS** and a **Volunteer with the Rotaract Club**, enhancing my leadership and collaboration skills.
+I'm Chintala Chandini, a Computer Science student passionate about problem solving, full-stack web development, and building scalable backend systems using modern technologies like MERN, AWS, and AI tools such as LangChain and LLaMA 3.
 
 ---
 
