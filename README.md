@@ -5,7 +5,6 @@
 I'm Chintala Chandini, a Computer Science student passionate about problem solving, full-stack web development, and building scalable backend systems using modern technologies like MERN, AWS, and AI tools such as LangChain and LLaMA 3.
 
 ---
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chintala-chandini/)
@@ -84,7 +83,6 @@ I'm Chintala Chandini, a Computer Science student passionate about problem solvi
 ## 🐍 Contribution Snake:
 
 ![snake gif](https://raw.githubusercontent.com/chandini1727/chandini1727/output/github-contribution-grid-snake.svg)
-
 
 ---
 
