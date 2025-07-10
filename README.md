@@ -1,5 +1,4 @@
 <!-- chandini1727 / README.md -->
-
 ## 👋 About Me
 
 I'm Chintala Chandini, a Computer Science student passionate about problem solving, full-stack web development, and building scalable backend systems using modern technologies like MERN, AWS, and AI tools such as LangChain and LLaMA 3.
