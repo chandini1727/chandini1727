@@ -1,7 +1,8 @@
-<!-- Banner -->
+<!-- Updated Banner -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Chintala%20Chandini&fontSize=40&fontAlign=middle&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20AI%20Enthusiast&descSize=20&descAlign=middle" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Chintala%20Chandini&fontSize=30&fontAlign=middle&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20AI%20Enthusiast&descSize=16&descAlign=middle&descAlignY=55" />
 </p>
+
 
 ## 👋 About Me
 
