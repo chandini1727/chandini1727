@@ -1,4 +1,8 @@
 <!-- chandini1727 / README.md -->
+<!-- Banner -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Chintala%20Chandini&fontSize=40&fontAlign=middle&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20AI%20Enthusiast&descSize=20&descAlign=middle" />
+</p>
 ## 👋 About Me
 
 I'm Chintala Chandini, a Computer Science student passionate about problem solving, full-stack web development, and building scalable backend systems using modern technologies like MERN, AWS, and AI tools such as LangChain and LLaMA 3.
