@@ -1,19 +1,21 @@
-<!-- chandini1727 / README.md -->
 <!-- Banner -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Chintala%20Chandini&fontSize=40&fontAlign=middle&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20AI%20Enthusiast&descSize=20&descAlign=middle" />
 </p>
+
 ## 👋 About Me
 
 I'm Chintala Chandini, a Computer Science student passionate about problem solving, full-stack web development, and building scalable backend systems using modern technologies like MERN, AWS, and AI tools such as LangChain and LLaMA 3.
 
 ---
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chintala-chandini/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandinichintala17@gmail.com)
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
@@ -59,9 +61,10 @@ I'm Chintala Chandini, a Computer Science student passionate about problem solvi
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-
 ---
+
 ## ⚙️ GitHub Stats
+
 <img src="https://img.shields.io/badge/Top%20Language-Java-orange?style=for-the-badge&logo=java&logoColor=white" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=chandini1727&show_icons=true&theme=radical" width="48%" />
@@ -71,6 +74,7 @@ I'm Chintala Chandini, a Computer Science student passionate about problem solvi
 ---
 
 ## 🗓️ Contribution Summary:
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandini1727&theme=radical" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandini1727&theme=radical" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=chandini1727&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
@@ -86,6 +90,3 @@ I'm Chintala Chandini, a Computer Science student passionate about problem solvi
 ## 🐍 Contribution Snake:
 
 ![snake gif](https://raw.githubusercontent.com/chandini1727/chandini1727/output/github-contribution-grid-snake.svg)
-
----
-
