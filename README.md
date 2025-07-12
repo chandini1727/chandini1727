@@ -19,8 +19,19 @@ I'm Chintala Chandini, a Computer Science student passionate about problem solvi
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-<p align="left">
+<style>
+  .badge-container img {
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .badge-container img:hover {
+    transform: scale(1.1) rotate(-1deg);
+  }
+</style>
+
+<!-- 👨‍💻 Languages -->
+<h3>👨‍💻 Languages</h3>
+<p class="badge-container" align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -30,23 +41,26 @@ I'm Chintala Chandini, a Computer Science student passionate about problem solvi
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🚀 Frameworks & Libraries
-<p align="left">
+<!-- 🚀 Frameworks & Libraries -->
+<h3>🚀 Frameworks & Libraries</h3>
+<p class="badge-container" align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-### 🛢️ Databases
-<p align="left">
+<!-- 🛢️ Databases -->
+<h3>🛢️ Databases</h3>
+<p class="badge-container" align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### ☁️ Deployment & Cloud
-<p align="left">
+<!-- ☁️ Deployment & Cloud -->
+<h3>☁️ Deployment & Cloud</h3>
+<p class="badge-container" align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -54,13 +68,15 @@ I'm Chintala Chandini, a Computer Science student passionate about problem solvi
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 
-### 🔧 Tools & Others
-<p align="left">
+<!-- 🔧 Tools & Others -->
+<h3>🔧 Tools & Others</h3>
+<p class="badge-container" align="left">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
+
 
 ---
 
