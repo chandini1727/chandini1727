@@ -21,7 +21,7 @@ I'm **Chintala Chandini**, a Computer Science student passionate about problem s
 <div align="center">
 
 ### 👨‍💻 Languages  
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css" />
 
 ### 🚀 Frameworks & Libraries  
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
@@ -30,7 +30,7 @@ I'm **Chintala Chandini**, a Computer Science student passionate about problem s
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
 ### ☁️ Deployment & Cloud  
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,render" />
 
 ### 🔧 Tools  
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
@@ -44,8 +44,8 @@ I'm **Chintala Chandini**, a Computer Science student passionate about problem s
 <img src="https://img.shields.io/badge/Top%20Language-Java-orange?style=for-the-badge&logo=java&logoColor=white" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandini1727&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandini1727&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chandini1727&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandini1727&theme=radical" />
 </p>
 
 ---
