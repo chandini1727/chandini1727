@@ -1,71 +1,98 @@
-<!-- Updated Banner -->
+<!-- 🌊 Animated Banner -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Chintala%20Chandini&fontSize=30&fontAlign=middle&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20AI%20Enthusiast&descSize=16&descAlign=middle&descAlignY=55" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Chintala%20Chandini&fontSize=35&fontAlign=middle&fontAlignY=40&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20AI%20Enthusiast&descSize=18&descAlign=middle&descAlignY=60" />
 </p>
 
-## 👋 About Me
+---
 
-I'm **Chintala Chandini**, a Computer Science student passionate about problem solving, full-stack web development, and building scalable backend systems using modern technologies like **MERN**, **AWS**, and AI tools such as **LangChain** and **LLaMA 3**.
+## 👩‍💻 About Me
+
+✨ Hey there! I'm **Chintala Chandini**,  
+a Computer Science student with a knack for:
+
+- 🧠 **Problem Solving**
+- 💻 **Full-Stack Web Development**
+- 🏗️ **Scalable Backend Engineering**
+- 🤖 AI Exploration with **LangChain**, **LLaMA 3**
+
+I love creating intelligent, cloud-ready applications using tools like **MERN**, **Docker**, and **AWS**.
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chintala-chandini/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandinichintala17@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/chintala-chandini/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  &nbsp;
+  <a href="mailto:chandinichintala17@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
 ### 👨‍💻 Languages  
 <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css" />
 
-### 🚀 Frameworks & Libraries  
+### 🌐 Frontend & Backend  
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
 
 ### 🛢️ Databases  
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
-### ☁️ Deployment & Cloud  
+### ☁️ Cloud & Deployment  
 <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,render" />
 
-### 🔧 Tools  
+### 🧰 Tools  
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 
 </div>
 
 ---
 
-## ⚙️ GitHub Stats
-
-<img src="https://img.shields.io/badge/Top%20Language-Java-orange?style=for-the-badge&logo=java&logoColor=white" />
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandini1727&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandini1727&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandini1727&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandini1727&theme=tokyonight" />
 </p>
 
 ---
 
-## 🗓️ Contribution Summary
+## 🗓️ Contributions Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandini1727&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandini1727&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chandini1727&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chandini1727&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandini1727&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandini1727&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🧱 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandini1727&theme=react-dark&area=true" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandini1727&theme=react-dark&area=true" />
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 GitHub Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/chandini1727/chandini1727/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chandini1727/chandini1727/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ✨ Fun Touch: Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+> *“Build things that make a difference.”*  
+> Thanks for stopping by! ⭐
