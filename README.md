@@ -44,7 +44,7 @@ a passionate Computer Science student who enjoys building intelligent and scalab
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
 ### ☁️ Cloud & Deployment  
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,render" />
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify" />
 
 ### 🧰 Tools  
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
