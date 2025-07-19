@@ -4,7 +4,6 @@
 </p>
 
 ---
-
 ## 👩‍💻 About Me
 
 ✨ Hey there! I'm **Chintala Chandini**,  
