@@ -4,15 +4,16 @@
 </p>
 
 ---
+
 ## 👩‍💻 About Me
 
 ✨ Hey there! I'm **Chintala Chandini**,  
 a passionate Computer Science student who enjoys building intelligent and scalable software systems.
 
 💡 I love working on:
-- 🧠 **Problem Solving**
-- 💻 **Full-Stack Web Development**
-- 🏗️ **Backend Engineering at Scale**
+- 🧠 Problem Solving  
+- 💻 Full-Stack Web Development  
+- 🏗️ Backend Engineering at Scale  
 - 🤖 AI Exploration with **LangChain**, **LLaMA 3**, and **Ollama**
 
 🚀 I build cloud-ready applications with **MERN**, **Docker**, **Firebase**, and **AWS**.
@@ -22,9 +23,13 @@ a passionate Computer Science student who enjoys building intelligent and scalab
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chintala-chandini/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/chintala-chandini/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
   &nbsp;
-  <a href="mailto:chandinichintala17@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:chandinichintala17@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
@@ -101,4 +106,4 @@ a passionate Computer Science student who enjoys building intelligent and scalab
 
 > *“Build things that make a difference.”*  
 > Thanks for stopping by! ⭐  
-> Let's build the future, one line of code at a time.
+> Let’s build the future, one line of code at a time.
