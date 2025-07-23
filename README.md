@@ -2,7 +2,6 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Chintala%20Chandini&fontSize=35&fontAlign=middle&fontAlignY=40&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20AI%20Enthusiast&descSize=18&descAlign=middle&descAlignY=60" />
 </p>
-
 ---
 
 ## 👩‍💻 About Me
