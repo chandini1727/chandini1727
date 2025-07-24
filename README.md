@@ -1,7 +1,8 @@
-<!-- 🌊 Animated Header -->
+<!-- 🌈 Gradient Animated Header -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Chintala%20Chandini&fontSize=35&fontAlign=middle&fontAlignY=40&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20AI%20Enthusiast&descSize=18&descAlign=middle&descAlignY=60" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=200&section=header&text=Chintala%20Chandini&fontSize=38&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20AI%20Enthusiast&descSize=18&descAlign=50&descAlignY=65" />
 </p>
+
 ---
 
 ## 👩‍💻 About Me
@@ -33,35 +34,28 @@ a passionate Computer Science student who enjoys building intelligent and scalab
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Animated Tech Stack
 
-<div align="center">
-
-### 👨‍💻 Languages  
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css" />
-
-### 🌐 Frontend & Backend  
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
-
-### 🛢️ Databases  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-
-### ☁️ Cloud & Deployment  
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify" />
-
-### 🧰 Tools  
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css&perline=6" alt="Languages" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&perline=4" alt="Frontend & Backend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=3" alt="Databases" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify&perline=4" alt="Cloud & Deployment" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=4" alt="Tools" />
+</p>
 
 ---
 
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandini1727&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandini1727&show_icons=true&theme=radical&border_radius=10" width="48%" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandini1727&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandini1727&theme=radical" />
 </p>
 
 ---
@@ -69,10 +63,10 @@ a passionate Computer Science student who enjoys building intelligent and scalab
 ## 🔥 GitHub Streaks & Productivity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chandini1727&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chandini1727&theme=radical&date_format=M%20j%5B,%20Y%5D" />
   <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandini1727&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandini1727&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandini1727&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandini1727&theme=radical" />
 </p>
 
 ---
