@@ -1,4 +1,4 @@
-<!-- ✨ Header -->
+<!-- ✨ Animated Header -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Chintala%20Chandini&fontSize=40&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20AI%20Enthusiast&descSize=18&descAlign=50&descAlignY=65" />
 </p>
@@ -97,3 +97,4 @@ a passionate **Computer Science student** who loves designing **scalable softwar
 > *“Code is like humor. When you have to explain it, it’s bad.”*  
 > Thanks for visiting my profile! ⭐  
 > Let’s innovate and build the future together.
+
