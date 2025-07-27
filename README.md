@@ -8,7 +8,7 @@
 ## 👩‍💻 About Me  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7B42C&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Chintala+Chandini;Full-Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+%26+Cloud-Ready+Apps;Always+Learning+%7C+Always+Coding" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7B42C&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Chintala+Chandini;Full-Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+%26+Cloud-Ready+Apps;Always+Learning+%7C+Always+Coding" />
 </p>
 
 ✨ Hi! I'm **Chintala Chandini**, a passionate Computer Science student who loves building intelligent and scalable software systems.  
@@ -94,8 +94,8 @@
 ## 🌟 Fun Animations  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80" />  
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=chandini1727&theme=radical&data=followers,repositories,stars,commits" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="90" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" />
 </p>
 
 ---
@@ -111,7 +111,8 @@
 ## 🎵 Vibe While You Code  
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
+  <!-- Spotify Fallback Animation -->
+  <img src="https://media.giphy.com/media/3o7TKM6lC9L27sMtdK/giphy.gif" width="350" />
 </p>
 
 ---
@@ -119,5 +120,5 @@
 ## 🚀 Final Note  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF6600&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Let's+build+something+amazing+together!;⭐+Thanks+for+visiting+my+profile!;Keep+building%2C+keep+innovating!+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF6600&center=true&vCenter=true&width=700&lines=✨+Let's+build+something+amazing!;⭐+Thanks+for+visiting+my+profile!;Keep+building,+keep+innovating!+🚀" />
 </p>
