@@ -8,7 +8,7 @@
 ## 👩‍💻 About Me  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7B42C&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Chintala+Chandini;Full-Stack+Developer+%7C+AI+Enthusiast;Building+scalable+%26+cloud-ready+apps;Always+learning+%7C+Always+coding" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7B42C&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Chintala+Chandini;Full-Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+%26+Cloud-Ready+Apps;Always+Learning+%7C+Always+Coding" />
 </p>
 
 ✨ Hi! I'm **Chintala Chandini**, a passionate Computer Science student who loves building intelligent and scalable software systems.  
@@ -65,7 +65,7 @@
 ## 📈 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandini1727&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandini1727&show_icons=true&theme=radical&hide_border=true&border_radius=12&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=chandini1727&theme=radical&hide_border=true&border_radius=12" width="48%" />
 </p>
 
@@ -91,10 +91,27 @@
 
 ---
 
+## 🌟 Fun Animations  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80" />  
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=chandini1727&theme=radical&data=followers,repositories,stars,commits" />
+</p>
+
+---
+
 ## 💬 Random Dev Quote  
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🎵 Vibe While You Code  
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
 </p>
 
 ---
