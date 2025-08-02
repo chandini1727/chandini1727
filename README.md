@@ -108,6 +108,21 @@
 
 ---
 
+## 🌍 Extra Cool Animations  
+
+<p align="center">
+  <!-- Animated Globe -->
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="180" />
+  
+  <!-- Matrix Code -->
+  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="200" />
+
+  <!-- Coding Cat -->
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" />
+</p>
+
+---
+
 ## 💬 Random Dev Quote  
 
 <p align="center">
