@@ -8,7 +8,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandini1727&theme=radical&no-frame=true&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chandini1727&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
