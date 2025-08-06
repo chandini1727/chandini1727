@@ -5,7 +5,7 @@
 
 ---
 
-## 👩‍💻 About Me  
+## 👩‍💻 About Me <img src="https://media.giphy.com/media/3o7TKP9uFDYoCdvjEA/giphy.gif" width="40">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F7B42C&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Chintala+Chandini;Full-Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+%26+Cloud-Ready+Apps;Always+Learning+%7C+Always+Coding" />
@@ -20,6 +20,10 @@
 - 🤖 **AI & LLM Exploration (LangChain, LLaMA 3, Ollama)**  
 
 🚀 I develop cloud-ready applications with **MERN**, **Docker**, **Firebase**, and **AWS**.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
+</p>
 
 ---
 
@@ -39,24 +43,30 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+---
+
 ## 🚀 Tech Stack  
 
 <div align="center">
 
 ### **👨‍💻 Languages**  
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css&theme=light" />
 
 ### **🌐 Frontend & Backend**  
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=light" />
 
 ### **🛢️ Databases**  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=light" />
 
 ### **☁️ Cloud & Deployment**  
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify&theme=light" />
 
 ### **🧰 Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=light" />
 
 </div>
 
@@ -71,6 +81,10 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandini1727&theme=radical" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chandini1727&theme=radical&no-frame=true&row=1&column=6&margin-w=15" />
 </p>
 
 ---
@@ -120,4 +134,8 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23FF6600&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Let's+build+something+amazing+together!;⭐+Thanks+for+visiting+my+profile!;Keep+building%2C+keep+innovating!+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
