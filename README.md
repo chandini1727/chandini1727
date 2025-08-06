@@ -5,7 +5,8 @@
 
 ---
 
-## 👩‍💻 About Me <img src="https://media.giphy.com/media/3o7TKP9uFDYoCdvjEA/giphy.gif" width="40">
+## 👩‍💻 About Me 
+<img src="https://media.giphy.com/media/3o7TKP9uFDYoCdvjEA/giphy.gif" width="40">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F7B42C&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Chintala+Chandini;Full-Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+%26+Cloud-Ready+Apps;Always+Learning+%7C+Always+Coding" />
