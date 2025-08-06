@@ -18,13 +18,6 @@
 - 💻 **Full-Stack Web Development**
 - 🏗️ **Backend Engineering at Scale**
 - 🤖 **AI & LLM Exploration (LangChain, LLaMA 3, Ollama)**  
-
-🚀 I develop cloud-ready applications with **MERN**, **Docker**, **Firebase**, and **AWS**.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
-</p>
-
 ---
 
 ## 🌐 Connect with Me  
