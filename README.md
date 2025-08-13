@@ -17,9 +17,9 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/chintala-chandini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&animation=shake" /></a>
-  <a href="mailto:chandinichintala17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=pulse" /></a>
-  <a href="https://github.com/chandini1727"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&animation=fade" /></a>
+  <a href="https://www.linkedin.com/in/chintala-chandini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:chandinichintala17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/chandini1727"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -27,21 +27,21 @@
 ## 🚀 Tech Stack <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
 
 <div align="center">
-  
+
 **💻 Languages**  
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css&theme=light&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css&theme=light" />
 
 **🌐 Frontend & Backend**  
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=light&perline=4" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=light" />
 
 **🛢 Databases**  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=light&perline=3" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=light" />
 
 **☁ Cloud & Deployment**  
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify&theme=light&perline=4" />
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify&theme=light" />
 
 **🧰 Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=light&perline=4" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=light" />
 
 </div>
 
@@ -61,7 +61,7 @@
 
 ## 🌱 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandini1727&theme=react-dark&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandini1727&theme=react-dark&area=true&hide_border=true&radius=12" width="95%" />
 </p>
 
 ---
