@@ -4,6 +4,7 @@
 </p>
 
 ---
+
 ## 👩‍💻 About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23FF6600&size=22&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Chintala+Chandini;Full+Stack+Developer+%7C+AI+Enthusiast;Loves+Scalable+Apps+%26+AI;Always+Learning+%7C+Always+Building" />
@@ -16,7 +17,7 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/chintala-chandini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/chintala-chandini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>
   <a href="mailto:chandinichintala17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/chandini1727"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -48,7 +49,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandini1727&show_icons=true&theme=radical&hide_border=true&border_radius=12&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandini1727&show_icons=true&theme=radical&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandini1727&theme=radical&hide_border=true&border_radius=12" width="48%" />
 </p>
 
@@ -60,7 +61,7 @@
 
 ## 🌱 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandini1727&theme=react-dark&area=true&hide_border=true&radius=12" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandini1727&theme=react-dark&area=true&hide_border=true&radius=12&custom_title=✨%20Chandini's%20Contribution%20Journey" width="95%" />
 </p>
 
 ---
@@ -72,9 +73,16 @@
 
 ---
 
+## 💡 Fun Extras  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chandini1727&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+---
+
 ## 💬 Random Dev Quote  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=fadeIn" />
 </p>
 
 ---
@@ -91,5 +99,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC300,100:FF5733&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC300,100:FF5733&height=120&section=footer&animation=fadeIn" />
 </p>
