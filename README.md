@@ -94,10 +94,10 @@
 
 ---
 
-## 🎵 Vibe While You Code  
+## 🎵 Vibe While You Code 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="400" />
+<p align="center"> 
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" /> 
 </p>
 
 ---
