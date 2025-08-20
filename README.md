@@ -78,14 +78,6 @@
 
 ---
 
-## 🏆 Achievements & Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandini1727&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
-</p>
-
----
-
 ## 💬 Random Dev Quote  
 
 <p align="center">
