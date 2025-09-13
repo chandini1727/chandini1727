@@ -11,9 +11,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Chintala+Chandini;💻+Full+Stack+Developer;🤖+AI+%26+LLMs+Explorer;🚀+Building+Scalable+Apps;✨+Always+Learning+%7C+Always+Innovating" />
 </p>
 
-✨ Passionate **Computer Science Student** building **intelligent & scalable software systems**.  
-💡 Exploring **AI, LLMs, and Backend Engineering** at scale.  
-⚡ Focused on **clean code, scalable architectures, and innovation**.  
+<p align="center">
+✨ Passionate <b>Computer Science Student</b> building <b>intelligent & scalable software systems</b><br>
+💡 Exploring <b>AI, LLMs, and Backend Engineering</b> at scale<br>
+⚡ Focused on <b>clean code, scalable architectures, and innovation</b>
+</p>
 
 ---
 
@@ -96,13 +98,6 @@
 <p align="center"> 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" /> 
 </p>
-
-<!-- Uncomment if you want Spotify integration -->
-<!--
-<p align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-</p>
--->
 
 ---
 
