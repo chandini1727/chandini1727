@@ -18,49 +18,37 @@
   <a href="mailto:chandinichintala17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
  
-## 🚀 Tech Stack  
-<div style={{
-  display: 'flex',
-  flexWrap: 'wrap',
-  justifyContent: 'center',
-  gap: '24px',
-  padding: '20px 0',
-}}>
+## 🚀 Tech Stack   
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" style="transition: transform 0.2s; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" style="transition: transform 0.2s; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" style="transition: transform 0.2s; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" style="transition: transform 0.2s; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" style="transition: transform 0.2s; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" style="transition: transform 0.2s; border-radius: 8px;" />
+<div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" style="transition: transform 0.2s; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" style="transition: transform 0.2s; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js" style="filter: invert(1); transition: transform 0.2s; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind" style="transition: transform 0.2s; border-radius: 8px;" />
+### 💻 **Languages & Scripting**  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css&theme=light" height="48" />
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" style="transition: transform 0.2s; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" style="transition: transform 0.2s; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" style="transition: transform 0.2s; border-radius: 8px;" />
+### ⚡ **Frameworks & Libraries**  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=light" height="48" />
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS" style="transition: transform 0.2s; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" style="transition: transform 0.2s; border-radius: 8px;" />
-  <img src="https://api.iconify.design/simple-icons/vercel.svg" width="45" height="45" alt="Vercel" style="filter: invert(1); transition: transform 0.2s; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="45" height="45" alt="Netlify" style="transition: transform 0.2s; border-radius: 8px;" />
+### 🛢 **Databases & Storage**  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=light" height="48" />
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" style="transition: transform 0.2s; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" style="filter: invert(1); transition: transform 0.2s; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" style="transition: transform 0.2s; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" style="transition: transform 0.2s; border-radius: 8px;" />
+### ☁ **Cloud & Deployment**  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify&theme=light" height="48" />
+</p>
+
+### 🧰 **Tools & Utilities**  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=light" height="48" />
+</p>
 
 </div>
 
-<style>
-img:hover {
-  transform: scale(1.1);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-}
-</style>
 
 
 ## 📊 GitHub Stats  
