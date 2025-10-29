@@ -19,52 +19,97 @@
 </p>
  
 ## 🚀 Tech Stack  
+## Tech Stack  
 
-<div style={{ display: 'flex', flexDirection: 'column', gap: '24px' }}>
+<div style={{
+  display: 'grid',
+  gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))',
+  gap: '20px',
+  marginTop: '20px'
+}}>
 
-### Languages & Scripting  
-<div style={{ display: 'flex', gap: '20px', alignItems: 'center' }}>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" />
+  <!-- Languages & Scripting -->
+  <div style={{
+    background: 'rgba(255, 255, 255, 0.03)',
+    border: '1px solid rgba(255, 255, 255, 0.1)',
+    borderRadius: '12px',
+    padding: '16px 20px'
+  }}>
+    <h3 style="margin-bottom: 12px;">Languages & Scripting</h3>
+    <div style={{ display: 'flex', gap: '18px', flexWrap: 'wrap' }}>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" height="38" alt="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38" height="38" alt="C++" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" alt="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" height="38" alt="HTML" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" height="38" alt="CSS" />
+    </div>
+  </div>
+
+  <!-- Frameworks & Libraries -->
+  <div style={{
+    background: 'rgba(255, 255, 255, 0.03)',
+    border: '1px solid rgba(255, 255, 255, 0.1)',
+    borderRadius: '12px',
+    padding: '16px 20px'
+  }}>
+    <h3 style="margin-bottom: 12px;">Frameworks & Libraries</h3>
+    <div style={{ display: 'flex', gap: '18px', flexWrap: 'wrap' }}>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38" alt="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="38" height="38" alt="Express.js" style={{ filter: 'invert(1)' }} />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="38" height="38" alt="Tailwind CSS" />
+    </div>
+  </div>
+
+  <!-- Databases & Storage -->
+  <div style={{
+    background: 'rgba(255, 255, 255, 0.03)',
+    border: '1px solid rgba(255, 255, 255, 0.1)',
+    borderRadius: '12px',
+    padding: '16px 20px'
+  }}>
+    <h3 style="margin-bottom: 12px;">Databases & Storage</h3>
+    <div style={{ display: 'flex', gap: '18px', flexWrap: 'wrap' }}>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38" height="38" alt="MongoDB" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" />
+    </div>
+  </div>
+
+  <!-- Cloud & Deployment -->
+  <div style={{
+    background: 'rgba(255, 255, 255, 0.03)',
+    border: '1px solid rgba(255, 255, 255, 0.1)',
+    borderRadius: '12px',
+    padding: '16px 20px'
+  }}>
+    <h3 style="margin-bottom: 12px;">Cloud & Deployment</h3>
+    <div style={{ display: 'flex', gap: '18px', flexWrap: 'wrap' }}>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="38" height="38" alt="AWS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" height="38" alt="Docker" />
+      <img src="https://api.iconify.design/simple-icons/vercel.svg" width="38" height="38" alt="Vercel" style={{ filter: 'invert(1)' }} />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="38" height="38" alt="Netlify" />
+    </div>
+  </div>
+
+  <!-- Tools & Utilities -->
+  <div style={{
+    background: 'rgba(255, 255, 255, 0.03)',
+    border: '1px solid rgba(255, 255, 255, 0.1)',
+    borderRadius: '12px',
+    padding: '16px 20px'
+  }}>
+    <h3 style="margin-bottom: 12px;">Tools & Utilities</h3>
+    <div style={{ display: 'flex', gap: '18px', flexWrap: 'wrap' }}>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" alt="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" height="38" alt="GitHub" style={{ filter: 'invert(1)' }} />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="38" height="38" alt="Postman" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" height="38" alt="VS Code" />
+    </div>
+  </div>
+
 </div>
-
-### Frameworks & Libraries  
-<div style={{ display: 'flex', gap: '20px', alignItems: 'center' }}>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="36" height="36" alt="Express.js" style={{ filter: 'invert(1)' }} />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" />
-</div>
-
-### Databases & Storage  
-<div style={{ display: 'flex', gap: '20px', alignItems: 'center' }}>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
-</div>
-
-### Cloud & Deployment  
-<div style={{ display: 'flex', gap: '20px', alignItems: 'center' }}>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="36" height="36" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
-  <img src="https://api.iconify.design/simple-icons/vercel.svg" width="36" height="36" alt="Vercel" style={{ filter: 'invert(1)' }} />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="36" height="36" alt="Netlify" />
-</div>
-
-### Tools & Utilities  
-<div style={{ display: 'flex', gap: '20px', alignItems: 'center' }}>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" style={{ filter: 'invert(1)' }} />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" />
-</div>
-
-</div>
-
 
 ## 📊 GitHub Stats  
 
