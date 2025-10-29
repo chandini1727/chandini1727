@@ -10,13 +10,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Chintala+Chandini;💻+Full+Stack+Developer;🤖+AI+%26+LLMs+Explorer;🚀+Building+Scalable+Apps;✨+Always+Learning+%7C+Always+Innovating" />
 </p>
-
-<p align="center">
-✨ Passionate <b>Computer Science Student</b> building <b>intelligent & scalable software systems</b><br>
-💡 Exploring <b>AI, LLMs, and Backend Engineering</b> at scale<br>
-⚡ Focused on <b>clean code, scalable architectures, and innovation</b>
-</p>
-
 ---
 
 ## 🌐 Connect with Me  
@@ -24,7 +17,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/chintala-chandini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:chandinichintala17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/chandini1727"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -36,14 +28,18 @@
 **💻 Languages & Scripting**  
 <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css&theme=light&perline=6" />
 
+
 **⚡ Frameworks & Libraries**  
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=light&perline=6" />
+
 
 **🛢 Databases & Storage**  
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=light&perline=6" />
 
+
 **☁ Cloud & Deployment**  
 <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify&theme=light&perline=6" />
+
 
 **🧰 Tools & Utilities**  
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=light&perline=6" />
