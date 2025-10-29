@@ -50,7 +50,6 @@
 </div>
 
 
-
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -59,12 +58,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandini1727&layout=compact&theme=radical&hide_border=true&border_radius=12" width="48%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandini1727&layout=compact&langs_count=10&theme=radical&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&custom_title=📚%20Most%20Used%20Languages%20Across%20Repos" 
+    width="48%" 
+  />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandini1727&theme=radical" width="100%" />
 </p>
+
 
 ---
 
