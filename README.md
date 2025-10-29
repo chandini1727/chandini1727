@@ -18,85 +18,38 @@
   <a href="https://www.linkedin.com/in/chintala-chandini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:chandinichintala17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
+ 
 ## 🚀 Tech Stack  
 
-<!-- 🌟 Modern Tech Stack Section -->
-<section class="bg-gradient-to-b from-white to-green-50 py-10">
-  <div class="max-w-5xl mx-auto text-center px-4">
-    
-    <h2 class="text-4xl font-bold text-[#325234] mb-10 tracking-tight">
-      🚀 Tech Stack
-    </h2>
+<div align="center">
 
-    <!-- Languages & Scripting -->
-    <div class="mb-10">
-      <h3 class="text-2xl font-semibold text-gray-800 mb-4">
-        💻 Languages & Scripting
-      </h3>
-      <div class="flex justify-center flex-wrap gap-6">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" class="w-14 hover:scale-110 transition-transform" />
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" class="w-14 hover:scale-110 transition-transform" />
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" class="w-14 hover:scale-110 transition-transform" />
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" class="w-14 hover:scale-110 transition-transform" />
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" class="w-14 hover:scale-110 transition-transform" />
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" class="w-14 hover:scale-110 transition-transform" />
-      </div>
-    </div>
+### 💻 **Languages & Scripting**  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css&theme=light" height="48" />
+</p>
 
-    <!-- Frameworks & Libraries -->
-    <div class="mb-10">
-      <h3 class="text-2xl font-semibold text-gray-800 mb-4">
-        ⚡ Frameworks & Libraries
-      </h3>
-      <div class="flex justify-center flex-wrap gap-6">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" class="w-14 hover:scale-110 transition-transform" />
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" class="w-14 hover:scale-110 transition-transform" />
-        <img src="https://skillicons.dev/icons?i=express" alt="Express" class="w-14 hover:scale-110 transition-transform" />
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" class="w-14 hover:scale-110 transition-transform" />
-      </div>
-    </div>
+### ⚡ **Frameworks & Libraries**  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=light" height="48" />
+</p>
 
-    <!-- Databases & Storage -->
-    <div class="mb-10">
-      <h3 class="text-2xl font-semibold text-gray-800 mb-4">
-        🛢 Databases & Storage
-      </h3>
-      <div class="flex justify-center flex-wrap gap-6">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" class="w-14 hover:scale-110 transition-transform" />
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" class="w-14 hover:scale-110 transition-transform" />
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" class="w-14 hover:scale-110 transition-transform" />
-      </div>
-    </div>
+### 🛢 **Databases & Storage**  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=light" height="48" />
+</p>
 
-    <!-- Cloud & Deployment -->
-    <div class="mb-10">
-      <h3 class="text-2xl font-semibold text-gray-800 mb-4">
-        ☁️ Cloud & Deployment
-      </h3>
-      <div class="flex justify-center flex-wrap gap-6">
-        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" class="w-14 hover:scale-110 transition-transform" />
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" class="w-14 hover:scale-110 transition-transform" />
-        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" class="w-14 hover:scale-110 transition-transform" />
-        <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" class="w-14 hover:scale-110 transition-transform" />
-      </div>
-    </div>
+### ☁ **Cloud & Deployment**  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify&theme=light" height="48" />
+</p>
 
-    <!-- Tools & Utilities -->
-    <div>
-      <h3 class="text-2xl font-semibold text-gray-800 mb-4">
-        🧰 Tools & Utilities
-      </h3>
-      <div class="flex justify-center flex-wrap gap-6">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" class="w-14 hover:scale-110 transition-transform" />
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" class="w-14 hover:scale-110 transition-transform" />
-        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" class="w-14 hover:scale-110 transition-transform" />
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" class="w-14 hover:scale-110 transition-transform" />
-      </div>
-    </div>
+### 🧰 **Tools & Utilities**  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=light" height="48" />
+</p>
 
-  </div>
-</section>
+</div>
+
 
 
 ---
