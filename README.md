@@ -21,36 +21,54 @@
  
 ## 🚀 Tech Stack  
 
-<div align="center">
+### Languages & Scripting  
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+</span>
 
-### 💻 **Languages & Scripting**  
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css&theme=light" height="48" />
-</p>
+---
 
-### ⚡ **Frameworks & Libraries**  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=light" height="48" />
-</p>
+### Frameworks & Libraries  
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" />
+</span>
 
-### 🛢 **Databases & Storage**  
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=light" height="48" />
-</p>
+---
 
-### ☁ **Cloud & Deployment**  
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify&theme=light" height="48" />
-</p>
+### Databases & Storage  
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+</span>
 
-### 🧰 **Tools & Utilities**  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=light" height="48" />
-</p>
+---
 
-</div>
+### Cloud & Deployment  
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://api.iconify.design/simple-icons/vercel.svg" width="40" height="40" alt="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" height="40" alt="Netlify" />
+</span>
 
+---
 
+### Tools & Utilities  
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+</span>
 
 ---
 
