@@ -31,7 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
 </span>
 
----
 
 ### Frameworks & Libraries  
 <span>
@@ -41,7 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" />
 </span>
 
----
 
 ### Databases & Storage  
 <span>
@@ -50,7 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
 </span>
 
----
 
 ### Cloud & Deployment  
 <span>
@@ -60,7 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" height="40" alt="Netlify" />
 </span>
 
----
 
 ### Tools & Utilities  
 <span>
@@ -69,8 +65,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
 </span>
-
----
 
 ## 📊 GitHub Stats  
 
