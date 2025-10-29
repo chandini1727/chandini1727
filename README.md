@@ -10,7 +10,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Chintala+Chandini;💻+Full+Stack+Developer;🤖+AI+%26+LLMs+Explorer;🚀+Building+Scalable+Apps;✨+Always+Learning+%7C+Always+Innovating" />
 </p>
----
 
 ## 🌐 Connect with Me  
 
